@@ -1,2 +1,1 @@
-# supplementary_material_leichhardt
-Climate-driven mangrove dieback and recovery: a case study in Albert and Leichhardt Rivers, Australia
+Supplementary material for the paper "Climate-driven mangrove dieback and recovery: a case study in Albert and Leichhardt Rivers, Australia" Rogerio Victor S. Gonçalves, Emma Asbridge, Jeffrey J. Kelleway, Richard Lucas, Kerrylee Rogers
